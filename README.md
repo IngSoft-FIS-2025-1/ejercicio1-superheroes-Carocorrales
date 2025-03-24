@@ -1,7 +1,7 @@
 # 🦸‍♂️ Ejercicio Super Héroes 🦸‍♀️
 
 **Objetivo:** Practicar comandos git básicos.
-
+cambios
 > 🛠️ **Instalar previamente en la computadora:**
 > + Git
 > + Visual Studio Code
